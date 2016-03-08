@@ -1,4 +1,4 @@
-# Trabalhos
+# Trabalhos ![TADS UDESC](https://img.shields.io/badge/TADS-UDESC-brightgreen.svg)
 
 Repositório central dos trabalhos realizados nas disciplinas do curso. <br>
 
