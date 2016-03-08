@@ -1,5 +1,6 @@
 # Trabalhos
 
+Repositório central dos trabalhos realizados nas disciplinas do curso. <br>
 
 Importante ressaltar que todos os alunos envolvidos com o compartilhamento destes trabalham repudiam qualquer espécie de plágio e reforçam que o objetivo deste compartilhamento é de mero auxílio. </br>
 
